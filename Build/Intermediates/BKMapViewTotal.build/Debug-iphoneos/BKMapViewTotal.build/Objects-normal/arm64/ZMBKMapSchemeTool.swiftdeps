@@ -1,0 +1,298 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ZMBKMapSchemeTool"
+provides-nominal:
+- "C14BKMapViewTotal17ZMBKMapSchemeTool"
+provides-member:
+- ["C14BKMapViewTotal17ZMBKMapSchemeTool", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "ZMBKMapSchemeTool"
+- !private "BMKOpenRoute"
+- !private "BMKOpenTransitRouteOption"
+- "NSObject"
+- "Void"
+- "String"
+- !private "=="
+- "CLLocationCoordinate2D"
+- !private "StringLiteralType"
+- !private "BMKPlanNode"
+- !private "BMK_OPEN_NO_ERROR"
+- !private "print"
+depends-member:
+- !private ["Ps9AnyObject", "BMKOpenRoute"]
+- !private ["Ps9AnyObject", "BMKOpenTransitRouteOption"]
+- !private ["Ps9AnyObject", "BMKPlanNode"]
+- !private ["Ps9AnyObject", "BMK_OPEN_NO_ERROR"]
+- !private ["Ps9AnyObject", "appScheme"]
+- ["Ps9AnyObject", "applicationOfJump"]
+- !private ["Ps9AnyObject", "endPoint"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "name"]
+- !private ["Ps9AnyObject", "openBaiduMapTransitRoute"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "pt"]
+- !private ["Ps9AnyObject", "startPoint"]
+- ["Ps9AnyObject", ""]
+- !private ["VSC16BMKOpenErrorCode", "RawValue"]
+- !private ["VSC16BMKOpenErrorCode", "deinit"]
+- !private ["CSo13BMKOpenOption", "appScheme"]
+- !private ["CSo13BMKOpenOption", "endPoint"]
+- !private ["CSo13BMKOpenOption", "init"]
+- !private ["CSo13BMKOpenOption", "startPoint"]
+- !private ["CSo12BMKOpenRoute", "openBaiduMapTransitRoute"]
+- !private ["CSo18BMKOpenRouteOption", "appScheme"]
+- !private ["CSo18BMKOpenRouteOption", "endPoint"]
+- !private ["CSo18BMKOpenRouteOption", "init"]
+- !private ["CSo18BMKOpenRouteOption", "startPoint"]
+- !private ["CSo25BMKOpenTransitRouteOption", "appScheme"]
+- !private ["CSo25BMKOpenTransitRouteOption", "endPoint"]
+- !private ["CSo25BMKOpenTransitRouteOption", "init"]
+- !private ["CSo25BMKOpenTransitRouteOption", "startPoint"]
+- !private ["CSo11BMKPlanNode", "init"]
+- !private ["CSo11BMKPlanNode", "name"]
+- !private ["CSo11BMKPlanNode", "pt"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["Ps11CVarArgType", "BMKOpenRoute"]
+- !private ["Ps11CVarArgType", "BMKOpenTransitRouteOption"]
+- !private ["Ps11CVarArgType", "BMKPlanNode"]
+- !private ["Ps11CVarArgType", "BMK_OPEN_NO_ERROR"]
+- !private ["Ps11CVarArgType", "appScheme"]
+- ["Ps11CVarArgType", "applicationOfJump"]
+- !private ["Ps11CVarArgType", "endPoint"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "name"]
+- !private ["Ps11CVarArgType", "openBaiduMapTransitRoute"]
+- !private ["Ps11CVarArgType", "print"]
+- !private ["Ps11CVarArgType", "pt"]
+- !private ["Ps11CVarArgType", "startPoint"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "BMKOpenRoute"]
+- !private ["Ps28CustomDebugStringConvertible", "BMKOpenTransitRouteOption"]
+- !private ["Ps28CustomDebugStringConvertible", "BMKPlanNode"]
+- !private ["Ps28CustomDebugStringConvertible", "BMK_OPEN_NO_ERROR"]
+- !private ["Ps28CustomDebugStringConvertible", "appScheme"]
+- ["Ps28CustomDebugStringConvertible", "applicationOfJump"]
+- !private ["Ps28CustomDebugStringConvertible", "endPoint"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "name"]
+- !private ["Ps28CustomDebugStringConvertible", "openBaiduMapTransitRoute"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "pt"]
+- !private ["Ps28CustomDebugStringConvertible", "startPoint"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "BMKOpenRoute"]
+- !private ["Ps23CustomStringConvertible", "BMKOpenTransitRouteOption"]
+- !private ["Ps23CustomStringConvertible", "BMKPlanNode"]
+- !private ["Ps23CustomStringConvertible", "BMK_OPEN_NO_ERROR"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "appScheme"]
+- ["Ps23CustomStringConvertible", "applicationOfJump"]
+- !private ["Ps23CustomStringConvertible", "endPoint"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "name"]
+- !private ["Ps23CustomStringConvertible", "openBaiduMapTransitRoute"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "pt"]
+- !private ["Ps23CustomStringConvertible", "startPoint"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "BMKOpenRoute"]
+- !private ["Ps9Equatable", "BMKOpenTransitRouteOption"]
+- !private ["Ps9Equatable", "BMKPlanNode"]
+- !private ["Ps9Equatable", "BMK_OPEN_NO_ERROR"]
+- !private ["Ps9Equatable", "RawValue"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "appScheme"]
+- ["Ps9Equatable", "applicationOfJump"]
+- !private ["Ps9Equatable", "endPoint"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "name"]
+- !private ["Ps9Equatable", "openBaiduMapTransitRoute"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "pt"]
+- !private ["Ps9Equatable", "startPoint"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "BMKOpenRoute"]
+- !private ["Ps8Hashable", "BMKOpenTransitRouteOption"]
+- !private ["Ps8Hashable", "BMKPlanNode"]
+- !private ["Ps8Hashable", "BMK_OPEN_NO_ERROR"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "appScheme"]
+- ["Ps8Hashable", "applicationOfJump"]
+- !private ["Ps8Hashable", "endPoint"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "name"]
+- !private ["Ps8Hashable", "openBaiduMapTransitRoute"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "pt"]
+- !private ["Ps8Hashable", "startPoint"]
+- ["Ps8Hashable", ""]
+- !private ["SQ", "deinit"]
+- !private ["CSo8NSObject", "BMKOpenRoute"]
+- !private ["CSo8NSObject", "BMKOpenTransitRouteOption"]
+- !private ["CSo8NSObject", "BMKPlanNode"]
+- !private ["CSo8NSObject", "BMK_OPEN_NO_ERROR"]
+- ["CSo8NSObject", "CLLocationCoordinate2D"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "appScheme"]
+- ["CSo8NSObject", "applicationOfJump"]
+- !private ["CSo8NSObject", "endPoint"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "name"]
+- !private ["CSo8NSObject", "openBaiduMapTransitRoute"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "pt"]
+- !private ["CSo8NSObject", "startPoint"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "BMKOpenRoute"]
+- !private ["PSo16NSObjectProtocol", "BMKOpenTransitRouteOption"]
+- !private ["PSo16NSObjectProtocol", "BMKPlanNode"]
+- !private ["PSo16NSObjectProtocol", "BMK_OPEN_NO_ERROR"]
+- !private ["PSo16NSObjectProtocol", "appScheme"]
+- ["PSo16NSObjectProtocol", "applicationOfJump"]
+- !private ["PSo16NSObjectProtocol", "endPoint"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "name"]
+- !private ["PSo16NSObjectProtocol", "openBaiduMapTransitRoute"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "pt"]
+- !private ["PSo16NSObjectProtocol", "startPoint"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Ps16RawRepresentable", "RawValue"]
+- !private ["C14BKMapViewTotal17ZMBKMapSchemeTool", "BMKOpenRoute"]
+- !private ["C14BKMapViewTotal17ZMBKMapSchemeTool", "BMKOpenTransitRouteOption"]
+- !private ["C14BKMapViewTotal17ZMBKMapSchemeTool", "BMKPlanNode"]
+- !private ["C14BKMapViewTotal17ZMBKMapSchemeTool", "BMK_OPEN_NO_ERROR"]
+- ["C14BKMapViewTotal17ZMBKMapSchemeTool", "CLLocationCoordinate2D"]
+- ["C14BKMapViewTotal17ZMBKMapSchemeTool", "String"]
+- ["C14BKMapViewTotal17ZMBKMapSchemeTool", "Void"]
+- ["C14BKMapViewTotal17ZMBKMapSchemeTool", "applicationOfJump"]
+- ["C14BKMapViewTotal17ZMBKMapSchemeTool", "deinit"]
+- ["C14BKMapViewTotal17ZMBKMapSchemeTool", "init"]
+- !private ["C14BKMapViewTotal17ZMBKMapSchemeTool", "print"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "VSC16BMKOpenErrorCode"
+- !private "CSo13BMKOpenOption"
+- !private "CSo12BMKOpenRoute"
+- !private "CSo18BMKOpenRouteOption"
+- !private "CSo25BMKOpenTransitRouteOption"
+- !private "CSo11BMKPlanNode"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- !private "SQ"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Ps16RawRepresentable"
+- "C14BKMapViewTotal17ZMBKMapSchemeTool"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BKMapViewTotal-Bridging-Header.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKBaseComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKGeneralDelegate.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKMapManager.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKTypes.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKUserLocation.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMapComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMapVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKAnnotation.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKAnnotationView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKActionPaopaoView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMapView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOverlayView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOverlay.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMapStatus.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKLocationViewDisplayParam.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKHeatMap.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKGradient.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKBaseIndoorMapInfo.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOfflineMap.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOfflineMapType.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKShape.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPointAnnotation.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPinAnnotationView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMultiPoint.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKArcline.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPolyline.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPolygon.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKCircle.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOverlayPathView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOverlayGLBasicView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPolygonView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPolylineView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKCircleView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKArclineView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKGroundOverlay.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKGroundOverlayView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKTileLayer.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKTileLayerView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSearchComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSearchVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKPoiSearchType.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKGeocodeType.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKRouteSearchType.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKPoiSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKPoiSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSearchBase.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKGeocodeSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKGeocodeSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKShareURLSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKShareUrlSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSuggestionSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSuggestionSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKBusLineSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKBusLineSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKRouteSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKRouteSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKDistrictSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudSearchComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudPOIList.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudSearchInfo.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Location.framework/Headers/BMKLocationComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Location.framework/Headers/BMKLocationService.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Location.framework/Headers/BMKLocationVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKUtilsComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKGeometry.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKNavigation.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoi.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoiOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenRoute.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenRouteOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiManager.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiInfo.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKUtilsVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenPanorama.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarManager.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarResult.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarVersion.h"
+interface-hash: "c1cd8f6da58662ea13545e5b6282b4e8"

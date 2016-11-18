@@ -1,0 +1,7 @@
+version: "Apple Swift version 2.3 (swiftlang-800.10.12 clang-800.0.38)"
+options: "2eaa625675672fe04798337ad1c14120"
+build_time: [532750450, 106510000]
+inputs:
+  "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/ViewController.swift": [532750450, 0]
+  "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/Header.swift": [532713572, 0]
+  "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/AppDelegate.swift": [532714100, 0]

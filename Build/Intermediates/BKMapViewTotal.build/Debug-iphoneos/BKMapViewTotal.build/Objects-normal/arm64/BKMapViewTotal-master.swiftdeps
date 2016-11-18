@@ -1,0 +1,11 @@
+version: "Apple Swift version 2.3 (swiftlang-800.10.12 clang-800.0.38)"
+options: "2de8fb517fdd1eb838196b35a8451263"
+build_time: [532777095, 371839000]
+inputs:
+  "/Users/David/\u767E\u5EA6\u4E91\u540C\u6B65\u76D8/\u8707\u871C\u56E2\u516C\u53F8\u76F8\u5173/\u516C\u53F8\u9879\u76EE/BMKLocation/BMKLocation/BMMapTool/ZMBKMapSchemeTool.swift": [532756773, 0]
+  "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/ViewController.swift": [532777090, 0]
+  "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BMKMapView/model/ZMTransItem.swift": [532771355, 0]
+  "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BMKMapView/ZMBottomBMKMapCollectionView.swift": [532777095, 0]
+  "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/Header.swift": [532713572, 0]
+  "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/AppDelegate.swift": [532714100, 0]
+  "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BMKMapView/ZMBottomMapCollectionViewCell.swift": [532767457, 0]

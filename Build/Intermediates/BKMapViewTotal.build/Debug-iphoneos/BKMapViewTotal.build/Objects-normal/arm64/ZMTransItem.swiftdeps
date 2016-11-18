@@ -1,0 +1,360 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ZMTransItem"
+provides-nominal:
+- "C14BKMapViewTotal11ZMTransItem"
+provides-member:
+- ["C14BKMapViewTotal11ZMTransItem", ""]
+provides-dynamic-lookup:
+- "addressNamesArr"
+- "annotationViewArr"
+depends-top-level:
+- "CLLocationCoordinate2D"
+- "String"
+- "NSObject"
+- "ZMTransItem"
+- "BMKAnnotationView"
+depends-member:
+- !private ["Ps9AnyObject", "BMKAnnotationView"]
+- !private ["Ps9AnyObject", "CLLocationCoordinate2D"]
+- !private ["Ps9AnyObject", "String"]
+- ["Ps9AnyObject", "addressNamesArr"]
+- ["Ps9AnyObject", "annotationViewArr"]
+- ["Ps9AnyObject", "coordinateArr"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "Generator"]
+- !private ["Sa", "Index"]
+- !private ["Sa", "SubSequence"]
+- !private ["Sa", "_Element"]
+- !private ["Sa", "init"]
+- !private ["Ps23ArrayLiteralConvertible", "Generator"]
+- !private ["Ps23ArrayLiteralConvertible", "Index"]
+- !private ["Ps23ArrayLiteralConvertible", "SubSequence"]
+- !private ["Ps23ArrayLiteralConvertible", "_Element"]
+- !private ["Ps23ArrayLiteralConvertible", "init"]
+- !private ["Vs10ArraySlice", "Generator"]
+- !private ["Vs10ArraySlice", "Index"]
+- !private ["Ps22BidirectionalIndexType", "Distance"]
+- !private ["Ps22BidirectionalIndexType", "IntegerLiteralType"]
+- !private ["Ps21BitwiseOperationsType", "Distance"]
+- !private ["Ps21BitwiseOperationsType", "IntegerLiteralType"]
+- ["VSC22CLLocationCoordinate2D", "deinit"]
+- !private ["Ps11CVarArgType", "BMKAnnotationView"]
+- !private ["Ps11CVarArgType", "CLLocationCoordinate2D"]
+- !private ["Ps11CVarArgType", "Distance"]
+- !private ["Ps11CVarArgType", "IntegerLiteralType"]
+- !private ["Ps11CVarArgType", "String"]
+- ["Ps11CVarArgType", "addressNamesArr"]
+- ["Ps11CVarArgType", "annotationViewArr"]
+- ["Ps11CVarArgType", "coordinateArr"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps14CollectionType", "Generator"]
+- !private ["Ps14CollectionType", "Index"]
+- !private ["Ps14CollectionType", "SubSequence"]
+- !private ["Ps14CollectionType", "_Element"]
+- !private ["Ps14CollectionType", "init"]
+- !private ["Ps10Comparable", "Distance"]
+- !private ["Ps10Comparable", "IntegerLiteralType"]
+- !private ["Ps28CustomDebugStringConvertible", "BMKAnnotationView"]
+- !private ["Ps28CustomDebugStringConvertible", "CLLocationCoordinate2D"]
+- !private ["Ps28CustomDebugStringConvertible", "Generator"]
+- !private ["Ps28CustomDebugStringConvertible", "Index"]
+- !private ["Ps28CustomDebugStringConvertible", "String"]
+- !private ["Ps28CustomDebugStringConvertible", "SubSequence"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- ["Ps28CustomDebugStringConvertible", "addressNamesArr"]
+- ["Ps28CustomDebugStringConvertible", "annotationViewArr"]
+- ["Ps28CustomDebugStringConvertible", "coordinateArr"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "BMKAnnotationView"]
+- !private ["Ps23CustomStringConvertible", "CLLocationCoordinate2D"]
+- !private ["Ps23CustomStringConvertible", "Distance"]
+- !private ["Ps23CustomStringConvertible", "Generator"]
+- !private ["Ps23CustomStringConvertible", "Index"]
+- !private ["Ps23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["Ps23CustomStringConvertible", "String"]
+- !private ["Ps23CustomStringConvertible", "SubSequence"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- ["Ps23CustomStringConvertible", "addressNamesArr"]
+- ["Ps23CustomStringConvertible", "annotationViewArr"]
+- ["Ps23CustomStringConvertible", "coordinateArr"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "BMKAnnotationView"]
+- !private ["Ps9Equatable", "CLLocationCoordinate2D"]
+- !private ["Ps9Equatable", "Distance"]
+- !private ["Ps9Equatable", "IntegerLiteralType"]
+- !private ["Ps9Equatable", "String"]
+- ["Ps9Equatable", "addressNamesArr"]
+- ["Ps9Equatable", "annotationViewArr"]
+- ["Ps9Equatable", "coordinateArr"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", ""]
+- !private ["Ps16ForwardIndexType", "Distance"]
+- !private ["Ps16ForwardIndexType", "IntegerLiteralType"]
+- !private ["Ps13GeneratorType", "Element"]
+- !private ["Ps8Hashable", "BMKAnnotationView"]
+- !private ["Ps8Hashable", "CLLocationCoordinate2D"]
+- !private ["Ps8Hashable", "Distance"]
+- !private ["Ps8Hashable", "IntegerLiteralType"]
+- !private ["Ps8Hashable", "String"]
+- ["Ps8Hashable", "addressNamesArr"]
+- ["Ps8Hashable", "annotationViewArr"]
+- ["Ps8Hashable", "coordinateArr"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Generator"]
+- !private ["Ps9Indexable", "Index"]
+- !private ["Ps9Indexable", "SubSequence"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "init"]
+- !private ["Vs17IndexingGenerator", "Element"]
+- !private ["Si", "Distance"]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Ps21IntegerArithmeticType", "Distance"]
+- !private ["Ps21IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps25IntegerLiteralConvertible", "Distance"]
+- !private ["Ps25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps11IntegerType", "Distance"]
+- !private ["Ps11IntegerType", "IntegerLiteralType"]
+- !private ["Ps14MirrorPathType", "Distance"]
+- !private ["Ps14MirrorPathType", "IntegerLiteralType"]
+- !private ["Ps21MutableCollectionType", "Generator"]
+- !private ["Ps21MutableCollectionType", "Index"]
+- !private ["Ps21MutableCollectionType", "SubSequence"]
+- !private ["Ps21MutableCollectionType", "_Element"]
+- !private ["Ps21MutableCollectionType", "init"]
+- !private ["Ps16MutableIndexable", "Generator"]
+- !private ["Ps16MutableIndexable", "Index"]
+- !private ["Ps16MutableIndexable", "SubSequence"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableIndexable", "init"]
+- !private ["Ps16MutableSliceable", "Generator"]
+- !private ["Ps16MutableSliceable", "Index"]
+- !private ["Ps16MutableSliceable", "SubSequence"]
+- !private ["Ps16MutableSliceable", "_Element"]
+- !private ["Ps16MutableSliceable", "init"]
+- ["CSo8NSObject", "BMKAnnotationView"]
+- ["CSo8NSObject", "CLLocationCoordinate2D"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "addressNamesArr"]
+- ["CSo8NSObject", "annotationViewArr"]
+- ["CSo8NSObject", "coordinateArr"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "BMKAnnotationView"]
+- !private ["PSo16NSObjectProtocol", "CLLocationCoordinate2D"]
+- !private ["PSo16NSObjectProtocol", "String"]
+- ["PSo16NSObjectProtocol", "addressNamesArr"]
+- ["PSo16NSObjectProtocol", "annotationViewArr"]
+- ["PSo16NSObjectProtocol", "coordinateArr"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["Ps21RandomAccessIndexType", "Distance"]
+- !private ["Ps21RandomAccessIndexType", "IntegerLiteralType"]
+- !private ["Ps30RangeReplaceableCollectionType", "Generator"]
+- !private ["Ps30RangeReplaceableCollectionType", "Index"]
+- !private ["Ps30RangeReplaceableCollectionType", "SubSequence"]
+- !private ["Ps30RangeReplaceableCollectionType", "_Element"]
+- !private ["Ps30RangeReplaceableCollectionType", "init"]
+- !private ["Ps12SequenceType", "Element"]
+- !private ["Ps12SequenceType", "Generator"]
+- !private ["Ps12SequenceType", "Index"]
+- !private ["Ps12SequenceType", "SubSequence"]
+- !private ["Ps12SequenceType", "_Element"]
+- !private ["Ps12SequenceType", "init"]
+- !private ["Ps17SignedIntegerType", "Distance"]
+- !private ["Ps17SignedIntegerType", "IntegerLiteralType"]
+- !private ["Ps16SignedNumberType", "Distance"]
+- !private ["Ps16SignedNumberType", "IntegerLiteralType"]
+- !private ["Ps10Strideable", "Distance"]
+- !private ["Ps10Strideable", "IntegerLiteralType"]
+- ["C14BKMapViewTotal11ZMTransItem", "BMKAnnotationView"]
+- ["C14BKMapViewTotal11ZMTransItem", "CLLocationCoordinate2D"]
+- ["C14BKMapViewTotal11ZMTransItem", "String"]
+- ["C14BKMapViewTotal11ZMTransItem", "addressNamesArr"]
+- ["C14BKMapViewTotal11ZMTransItem", "annotationViewArr"]
+- ["C14BKMapViewTotal11ZMTransItem", "coordinateArr"]
+- ["C14BKMapViewTotal11ZMTransItem", "deinit"]
+- ["C14BKMapViewTotal11ZMTransItem", "init"]
+- !private ["Ps10_ArrayType", "Generator"]
+- !private ["Ps10_ArrayType", "Index"]
+- !private ["Ps10_ArrayType", "SubSequence"]
+- !private ["Ps10_ArrayType", "_Element"]
+- !private ["Ps10_ArrayType", "init"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "Distance"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps24_DestructorSafeContainer", "Generator"]
+- !private ["Ps24_DestructorSafeContainer", "Index"]
+- !private ["Ps24_DestructorSafeContainer", "SubSequence"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "init"]
+- !private ["Ps14_Incrementable", "Distance"]
+- !private ["Ps14_Incrementable", "IntegerLiteralType"]
+- !private ["Ps22_IntegerArithmeticType", "Distance"]
+- !private ["Ps22_IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps12_IntegerType", "Distance"]
+- !private ["Ps12_IntegerType", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "Distance"]
+- !private ["Ps21_ObjectiveCBridgeable", "Generator"]
+- !private ["Ps21_ObjectiveCBridgeable", "Index"]
+- !private ["Ps21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "SubSequence"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps22_RandomAccessAmbiguity", "Distance"]
+- !private ["Ps22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "Distance"]
+- !private ["Ps12_Reflectable", "Generator"]
+- !private ["Ps12_Reflectable", "Index"]
+- !private ["Ps12_Reflectable", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "SubSequence"]
+- !private ["Ps12_Reflectable", "_Element"]
+- !private ["Ps12_Reflectable", "init"]
+- !private ["Ps18_SignedIntegerType", "Distance"]
+- !private ["Ps18_SignedIntegerType", "IntegerLiteralType"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23ArrayLiteralConvertible"
+- !private "Vs10ArraySlice"
+- !private "Ps22BidirectionalIndexType"
+- !private "Ps21BitwiseOperationsType"
+- "VSC22CLLocationCoordinate2D"
+- "Ps11CVarArgType"
+- !private "Ps14CollectionType"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps16ForwardIndexType"
+- !private "Ps13GeneratorType"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Vs17IndexingGenerator"
+- !private "Si"
+- !private "Ps21IntegerArithmeticType"
+- !private "Ps25IntegerLiteralConvertible"
+- !private "Ps11IntegerType"
+- !private "Ps14MirrorPathType"
+- !private "Ps21MutableCollectionType"
+- !private "Ps16MutableIndexable"
+- !private "Ps16MutableSliceable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "Ps21RandomAccessIndexType"
+- !private "Ps30RangeReplaceableCollectionType"
+- !private "Ps12SequenceType"
+- !private "Ps17SignedIntegerType"
+- !private "Ps16SignedNumberType"
+- !private "Ps10Strideable"
+- "C14BKMapViewTotal11ZMTransItem"
+- !private "Ps10_ArrayType"
+- !private "Ps33_BuiltinIntegerLiteralConvertible"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps14_Incrementable"
+- !private "Ps22_IntegerArithmeticType"
+- !private "Ps12_IntegerType"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessAmbiguity"
+- !private "Ps12_Reflectable"
+- !private "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BKMapViewTotal-Bridging-Header.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKBaseComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKGeneralDelegate.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKMapManager.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKTypes.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/Swift_2.3.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKUserLocation.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Base.framework/Headers/BMKVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMapComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMapVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKAnnotation.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKAnnotationView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKActionPaopaoView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMapView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOverlayView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOverlay.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMapStatus.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKLocationViewDisplayParam.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKHeatMap.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKGradient.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKBaseIndoorMapInfo.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOfflineMap.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOfflineMapType.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKShape.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPointAnnotation.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPinAnnotationView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKMultiPoint.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKArcline.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPolyline.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPolygon.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKCircle.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOverlayPathView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKOverlayGLBasicView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPolygonView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKPolylineView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKCircleView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKArclineView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKGroundOverlay.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKGroundOverlayView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKTileLayer.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Map.framework/Headers/BMKTileLayerView.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSearchComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSearchVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKPoiSearchType.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKGeocodeType.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKRouteSearchType.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKPoiSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKPoiSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSearchBase.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKGeocodeSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKGeocodeSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKShareURLSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKShareUrlSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSuggestionSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKSuggestionSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKBusLineSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKBusLineSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKRouteSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKRouteSearchOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Search.framework/Headers/BMKDistrictSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudSearchComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudPOIList.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudSearch.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Cloud.framework/Headers/BMKCloudSearchInfo.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Location.framework/Headers/BMKLocationComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Location.framework/Headers/BMKLocationService.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Location.framework/Headers/BMKLocationVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKUtilsComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKGeometry.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKNavigation.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoi.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoiOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenRoute.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenRouteOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiManager.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiInfo.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKUtilsVersion.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenPanorama.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarComponent.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarManager.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarOption.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarResult.h"
+- "/Users/David/Desktop/BKMapViewTotal/BKMapViewTotal/BaiduMapAPI/BaiduMapAPI_Radar.framework/Headers/BMKRadarVersion.h"
+interface-hash: "07dc6e31a1426252048538db2ebd54cf"
